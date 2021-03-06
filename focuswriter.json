@@ -1,0 +1,11 @@
+{
+    "version": "1.7.6",
+    "url": "https://gottcode.org/focuswriter/FocusWriter_1.7.6.zip",
+    "hash": "2e5f81108a3180e476326975376d253dca4292197a2786cb4391cb118a4f2031",
+    "bin": "FocusWriter.exe",
+    "license": {
+        "identifier": "GPL-3",
+        "url": "https://gitlab.com/GrafX2/grafX2/-/blob/master/LICENSE"
+    },
+    "shortcuts": [["FocusWriter.exe", "FocusWriter"]]
+}

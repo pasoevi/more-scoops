@@ -1,4 +1,4 @@
-# scoop-bucket
+# more-scoops
 
 A bucket with a handful of software packages I use but can't find in the main/extras scoop buckets. 
 
